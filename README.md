@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vagisha</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<h3 align="center">A passionate Software Developer from India</h3>
 
 - 💬 Ask me about **Python, Streamlit, AWS Glue(PySpark), SQL**
 
@@ -30,6 +31,8 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
+
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!--- stats & Trophy (start) -->
 <p align="center">
