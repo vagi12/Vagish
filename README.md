@@ -32,12 +32,12 @@
   </a> 
 </p>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!--- stats & Trophy (start) -->
-<p align="center">
+<p align="left">
   <!--- stats (start) -->
-<table align="center">
+<table align="left">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -56,7 +56,7 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=center>
+<div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=vagi12&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
